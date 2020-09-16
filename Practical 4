@@ -19,4 +19,3 @@ Command :- ssh kali@server-ip
 Command :- ssh kali@power9
 Command :- ssh-copy-id kali@power9
 Command :- ssh 127.0.0.1
-© 2020 GitHub, Inc.
